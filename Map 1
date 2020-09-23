@@ -1,0 +1,7497 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "Hofname": "Hof Heseker",
+        "Anrufe": 30,
+        "marker-symbol": "",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0407,
+          51.927872
+        ]
+      },
+      "bbox": [
+        8.0407,
+        51.927872,
+        8.0407,
+        51.927872
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Lother",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.170395,
+          49.921368
+        ]
+      },
+      "bbox": [
+        10.170395,
+        49.921368,
+        10.170395,
+        49.921368
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "hof*GENUSS",
+        "Anrufe": "ca. 5-7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.161998,
+          51.858463
+        ]
+      },
+      "bbox": [
+        9.161998,
+        51.858463,
+        9.161998,
+        51.858463
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kreativhof38",
+        "Anrufe": "etwa 8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02537,
+          52.56455
+        ]
+      },
+      "bbox": [
+        11.02537,
+        52.56455,
+        11.02537,
+        52.56455
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Schloss Gut Obbach",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09291,
+          50.07463
+        ]
+      },
+      "bbox": [
+        10.09291,
+        50.07463,
+        10.09291,
+        50.07463
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biolandhof Hörmann",
+        "Anrufe": "50",
+        "marker-color": "#f71b1b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38181,
+          47.66415
+        ]
+      },
+      "bbox": [
+        10.38181,
+        47.66415,
+        10.38181,
+        47.66415
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gahmener Hof",
+        "Anrufe": "5-15-30.",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.515515,
+          51.599589
+        ]
+      },
+      "bbox": [
+        7.515515,
+        51.599589,
+        7.515515,
+        51.599589
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Steinmühle",
+        "Anrufe": 25,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85075,
+          47.931945
+        ]
+      },
+      "bbox": [
+        7.85075,
+        47.931945,
+        7.85075,
+        47.931945
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Ökohof Engler",
+        "Anrufe": "30-40",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.92132,
+          52.931789
+        ]
+      },
+      "bbox": [
+        13.92132,
+        52.931789,
+        13.92132,
+        52.931789
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Steppacherhof ",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.584528,
+          47.845855
+        ]
+      },
+      "bbox": [
+        8.584528,
+        47.845855,
+        8.584528,
+        47.845855
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Roth, Luisenhof",
+        "Anrufe": "Ca. 15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.24185,
+          49.82329
+        ]
+      },
+      "bbox": [
+        9.24185,
+        49.82329,
+        9.24185,
+        49.82329
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Aselerwarf",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.817827,
+          53.567688
+        ]
+      },
+      "bbox": [
+        7.817827,
+        53.567688,
+        7.817827,
+        53.567688
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Schönhals",
+        "Anrufe": "2-3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.169908,
+          49.797496
+        ]
+      },
+      "bbox": [
+        8.169908,
+        49.797496,
+        8.169908,
+        49.797496
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofgut Bäldleschwaige",
+        "Anrufe": "ca. 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72487,
+          48.65664
+        ]
+      },
+      "bbox": [
+        10.72487,
+        48.65664,
+        10.72487,
+        48.65664
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Vauß-Hof",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62952,
+          51.713211
+        ]
+      },
+      "bbox": [
+        8.62952,
+        51.713211,
+        8.62952,
+        51.713211
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Winzerhof Linder",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708715,
+          48.13323
+        ]
+      },
+      "bbox": [
+        7.708715,
+        48.13323,
+        7.708715,
+        48.13323
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Schneider ",
+        "Anrufe": "Zwischen 0-40",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.165278,
+          50.871774
+        ]
+      },
+      "bbox": [
+        8.165278,
+        50.871774,
+        8.165278,
+        50.871774
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Mitimino-Lama-Trekking  Fam. Baier",
+        "Anrufe": "10-20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.64841,
+          50.28559
+        ]
+      },
+      "bbox": [
+        11.64841,
+        50.28559,
+        11.64841,
+        50.28559
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Meierei Geestfrisch",
+        "Anrufe": "0-2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50131,
+          54.38864
+        ]
+      },
+      "bbox": [
+        9.50131,
+        54.38864,
+        9.50131,
+        54.38864
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Milchhof Ludwig",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10019,
+          49.09935
+        ]
+      },
+      "bbox": [
+        10.10019,
+        49.09935,
+        10.10019,
+        49.09935
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Brühler Hof",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.93143,
+          49.81802
+        ]
+      },
+      "bbox": [
+        7.93143,
+        49.81802,
+        7.93143,
+        49.81802
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Renchhof",
+        "Anrufe": "3-4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.981562,
+          48.681392
+        ]
+      },
+      "bbox": [
+        7.981562,
+        48.681392,
+        7.981562,
+        48.681392
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Schusterbauer",
+        "Anrufe": 45,
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.830759,
+          48.26935
+        ]
+      },
+      "bbox": [
+        12.830759,
+        48.26935,
+        12.830759,
+        48.26935
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lohmühlenhof ",
+        "Anrufe": "15, an langen Wochenenden 30-40",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.264556,
+          54.218056
+        ]
+      },
+      "bbox": [
+        10.264556,
+        54.218056,
+        10.264556,
+        54.218056
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Nutztierarche Montagshof",
+        "Anrufe": "50",
+        "marker-color": "#f71b1b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37553,
+          50.293919
+        ]
+      },
+      "bbox": [
+        7.37553,
+        50.293919,
+        7.37553,
+        50.293919
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bioland Weingut Martin Manderschied",
+        "Anrufe": "ca. 20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.03723,
+          49.10486
+        ]
+      },
+      "bbox": [
+        8.03723,
+        49.10486,
+        8.03723,
+        49.10486
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Stahlheber",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.15828,
+          49.60973
+        ]
+      },
+      "bbox": [
+        8.15828,
+        49.60973,
+        8.15828,
+        49.60973
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Landgasthof Alter Bahnhof",
+        "Anrufe": "10-15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33703,
+          51.16783
+        ]
+      },
+      "bbox": [
+        10.33703,
+        51.16783,
+        10.33703,
+        51.16783
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Sonnenberg",
+        "Anrufe": "21",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.327073,
+          50.242073
+        ]
+      },
+      "bbox": [
+        9.327073,
+        50.242073,
+        9.327073,
+        50.242073
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Land-gut-Hotel Gasthof Waldschänke",
+        "Anrufe": "~3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.148742,
+          48.434701
+        ]
+      },
+      "bbox": [
+        12.148742,
+        48.434701,
+        12.148742,
+        48.434701
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wilhelmshof Wein- und Sektgut",
+        "Anrufe": "8-12",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.051164,
+          49.208906
+        ]
+      },
+      "bbox": [
+        8.051164,
+        49.208906,
+        8.051164,
+        49.208906
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Thomas Bischmann",
+        "Anrufe": "5-10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2877,
+          49.77839
+        ]
+      },
+      "bbox": [
+        8.2877,
+        49.77839,
+        8.2877,
+        49.77839
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Peters",
+        "Anrufe": "bis zu 12 pro Tag",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65524,
+          53.64299
+        ]
+      },
+      "bbox": [
+        7.65524,
+        53.64299,
+        7.65524,
+        53.64299
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Panoramaweingut Reinhard Baumgärtner",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.03148,
+          49.001881
+        ]
+      },
+      "bbox": [
+        9.03148,
+        49.001881,
+        9.03148,
+        49.001881
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Junker",
+        "Anrufe": "5-10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.10791,
+          49.16235
+        ]
+      },
+      "bbox": [
+        8.10791,
+        49.16235,
+        8.10791,
+        49.16235
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Casas Eichenhof",
+        "Anrufe": "ca 5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.208234,
+          52.244439
+        ]
+      },
+      "bbox": [
+        8.208234,
+        52.244439,
+        8.208234,
+        52.244439
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Herzer",
+        "Anrufe": "10 bis 15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7767,
+          51.17112
+        ]
+      },
+      "bbox": [
+        11.7767,
+        51.17112,
+        11.7767,
+        51.17112
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "BioGut Saalkow",
+        "Anrufe": "ca. 140",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.208328,
+          54.325789
+        ]
+      },
+      "bbox": [
+        13.208328,
+        54.325789,
+        13.208328,
+        54.325789
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bocksbeutelweingut Scheller",
+        "Anrufe": "25",
+        "marker-color": "#cf8d23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.193339,
+          49.910745
+        ]
+      },
+      "bbox": [
+        10.193339,
+        49.910745,
+        10.193339,
+        49.910745
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Claudia Straub",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54168,
+          47.6917
+        ]
+      },
+      "bbox": [
+        7.54168,
+        47.6917,
+        7.54168,
+        47.6917
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "marker-symbol": "",
+        "Hofname": "Hielscher Hof",
+        "Anrufe": 10,
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.100187,
+          51.112756
+        ]
+      },
+      "bbox": [
+        7.100187,
+        51.112756,
+        7.100187,
+        51.112756
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kürbis- und Kartoffelhof Rüeck",
+        "Anrufe": "zwischen 5 und 15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.036668,
+          49.06215
+        ]
+      },
+      "bbox": [
+        10.036668,
+        49.06215,
+        10.036668,
+        49.06215
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ökologischer Land- und Weinbau Seitz",
+        "Anrufe": "5-10 ",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.58668,
+          49.618487
+        ]
+      },
+      "bbox": [
+        9.58668,
+        49.618487,
+        9.58668,
+        49.618487
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weinkellerei & Edelobstbrennerei Jürgen Rebhann",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.426514,
+          49.851033
+        ]
+      },
+      "bbox": [
+        10.426514,
+        49.851033,
+        10.426514,
+        49.851033
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Demeterhof Dünninger",
+        "Anrufe": "3-4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.55434,
+          50.13146
+        ]
+      },
+      "bbox": [
+        10.55434,
+        50.13146,
+        10.55434,
+        50.13146
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "BIO HOF BRINKMANN",
+        "Anrufe": 50,
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79008237407685,
+          52.0156844
+        ]
+      },
+      "bbox": [
+        8.79008237407685,
+        52.0156844,
+        8.79008237407685,
+        52.0156844
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Steinackerhof",
+        "Anrufe": "während Himmelfahrt und Pfingsten ca. 30 /Tag",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6333,
+          49.866908
+        ]
+      },
+      "bbox": [
+        7.6333,
+        49.866908,
+        7.6333,
+        49.866908
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Rabehof Oldendorf",
+        "Anrufe": "zwischen 70-100",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08594,
+          52.79956
+        ]
+      },
+      "bbox": [
+        10.08594,
+        52.79956,
+        10.08594,
+        52.79956
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Erlebnishof Lahmann ",
+        "Anrufe": 30,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00925,
+          52.48288
+        ]
+      },
+      "bbox": [
+        10.00925,
+        52.48288,
+        10.00925,
+        52.48288
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gerbermann, Kornbrennerei Gerbermann",
+        "Anrufe": "5 -10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.786341,
+          51.922019
+        ]
+      },
+      "bbox": [
+        7.786341,
+        51.922019,
+        7.786341,
+        51.922019
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Arche Brandshagen",
+        "Anrufe": "150-200",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1769,
+          54.239061
+        ]
+      },
+      "bbox": [
+        13.1769,
+        54.239061,
+        13.1769,
+        54.239061
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Arche-Hof-Schwanewede ",
+        "Anrufe": "5-6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60288,
+          53.24832
+        ]
+      },
+      "bbox": [
+        8.60288,
+        53.24832,
+        8.60288,
+        53.24832
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hotel Restaurant-Fleischerei Schneider",
+        "Anrufe": "ca 1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.162322,
+          51.006124
+        ]
+      },
+      "bbox": [
+        10.162322,
+        51.006124,
+        10.162322,
+        51.006124
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Niedergerner Alpaka Ranch ",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.865935,
+          48.211248
+        ]
+      },
+      "bbox": [
+        12.865935,
+        48.211248,
+        12.865935,
+        48.211248
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weinbau Bernhard & Birgit Meusert",
+        "Anrufe": "2-10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16829,
+          49.87306
+        ]
+      },
+      "bbox": [
+        10.16829,
+        49.87306,
+        10.16829,
+        49.87306
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Rinzberghof",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9444,
+          48.05083
+        ]
+      },
+      "bbox": [
+        7.9444,
+        48.05083,
+        7.9444,
+        48.05083
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Erlebnishof Quarnebeck",
+        "Anrufe": "fünf bis sieben",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.170292,
+          52.566358
+        ]
+      },
+      "bbox": [
+        11.170292,
+        52.566358,
+        11.170292,
+        52.566358
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Iff's Ferienhof",
+        "Anrufe": "min. 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.88202,
+          49.91251
+        ]
+      },
+      "bbox": [
+        9.88202,
+        49.91251,
+        9.88202,
+        49.91251
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Schloss Ortenberg ",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9799,
+          48.45338
+        ]
+      },
+      "bbox": [
+        7.9799,
+        48.45338,
+        7.9799,
+        48.45338
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Natur im Moor ",
+        "Anrufe": "30 -40",
+        "marker-color": "#cf8d23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99537,
+          53.72605
+        ]
+      },
+      "bbox": [
+        8.99537,
+        53.72605,
+        8.99537,
+        53.72605
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Herzapfelhof Lühs",
+        "Anrufe": "25 incl. Mails",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69779,
+          53.52882
+        ]
+      },
+      "bbox": [
+        9.69779,
+        53.52882,
+        9.69779,
+        53.52882
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Benß",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.179564,
+          49.599835
+        ]
+      },
+      "bbox": [
+        8.179564,
+        49.599835,
+        8.179564,
+        49.599835
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Arhe-Hof Broxten",
+        "Anrufe": "1-10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20162,
+          52.401192
+        ]
+      },
+      "bbox": [
+        8.20162,
+        52.401192,
+        8.20162,
+        52.401192
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kulke Milch ab Hof Hofladen",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67281,
+          53.48552
+        ]
+      },
+      "bbox": [
+        7.67281,
+        53.48552,
+        7.67281,
+        53.48552
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kalle-Bäcker",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.01643,
+          53.95775
+        ]
+      },
+      "bbox": [
+        9.01643,
+        53.95775,
+        9.01643,
+        53.95775
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Spargel- Melonenhof ",
+        "Anrufe": "8-14",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.600571,
+          49.369393
+        ]
+      },
+      "bbox": [
+        8.600571,
+        49.369393,
+        8.600571,
+        49.369393
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Alpaka Zucht Böhm",
+        "Anrufe": "30-50",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603537,
+          50.510156
+        ]
+      },
+      "bbox": [
+        7.603537,
+        50.510156,
+        7.603537,
+        50.510156
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Zum Trollhof- Kräuter, Kurse, Köstlichkeiten ",
+        "Anrufe": "50-80",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48175,
+          53.79234
+        ]
+      },
+      "bbox": [
+        11.48175,
+        53.79234,
+        11.48175,
+        53.79234
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Aischgrund Biohof Prechtel",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.735188,
+          49.669574
+        ]
+      },
+      "bbox": [
+        10.735188,
+        49.669574,
+        10.735188,
+        49.669574
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Familie Hoh  Karolinenhof ",
+        "Anrufe": "70",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.673097,
+          50.5483
+        ]
+      },
+      "bbox": [
+        11.673097,
+        50.5483,
+        11.673097,
+        50.5483
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "trüffelhandel & trüffelanbau",
+        "Anrufe": "ca.25",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.636,
+          51.45753
+        ]
+      },
+      "bbox": [
+        12.636,
+        51.45753,
+        12.636,
+        51.45753
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Straußenhof Scholz, Stichelsdorf ",
+        "Anrufe": 40,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04843,
+          51.49909
+        ]
+      },
+      "bbox": [
+        12.04843,
+        51.49909,
+        12.04843,
+        51.49909
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weinbau Roß ",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.16952,
+          49.64819
+        ]
+      },
+      "bbox": [
+        8.16952,
+        49.64819,
+        8.16952,
+        49.64819
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hospach",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.27967,
+          48.192032
+        ]
+      },
+      "bbox": [
+        9.27967,
+        48.192032,
+        9.27967,
+        48.192032
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ökohof Fläming, Friedrich Rosenthal",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.224379,
+          52.234249
+        ]
+      },
+      "bbox": [
+        12.224379,
+        52.234249,
+        12.224379,
+        52.234249
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bode-Kirchhoff",
+        "Anrufe": "ca.15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.29512,
+          52.49171
+        ]
+      },
+      "bbox": [
+        10.29512,
+        52.49171,
+        10.29512,
+        52.49171
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Körnerkissen Porta Westfalica ",
+        "Anrufe": "10-14",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.891834,
+          52.227788
+        ]
+      },
+      "bbox": [
+        8.891834,
+        52.227788,
+        8.891834,
+        52.227788
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Klosterhof Bünghausen",
+        "Anrufe": "nach Corona 20-30 täglich, aktuell wochentags 0 - 5, wochenende über 10",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.50984,
+          50.98212
+        ]
+      },
+      "bbox": [
+        7.50984,
+        50.98212,
+        7.50984,
+        50.98212
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Biohof Hümme",
+        "Anrufe": 45,
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.647454,
+          53.714702
+        ]
+      },
+      "bbox": [
+        10.647454,
+        53.714702,
+        10.647454,
+        53.714702
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Paradies am Lusen",
+        "Anrufe": "ca. 15 - 20 Anrufe",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538241,
+          48.867144
+        ]
+      },
+      "bbox": [
+        13.538241,
+        48.867144,
+        13.538241,
+        48.867144
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Letschiner-Mainecoon-Zwinger",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.332168,
+          52.662004
+        ]
+      },
+      "bbox": [
+        14.332168,
+        52.662004,
+        14.332168,
+        52.662004
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weideschweine vom Sommerhof",
+        "Anrufe": "2-3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057079,
+          49.091022
+        ]
+      },
+      "bbox": [
+        10.057079,
+        49.091022,
+        10.057079,
+        49.091022
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Mayerhof",
+        "Anrufe": "zwischen 4 und 6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839636,
+          48.93935
+        ]
+      },
+      "bbox": [
+        8.839636,
+        48.93935,
+        8.839636,
+        48.93935
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Krippner Hof ",
+        "Anrufe": "14",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.123585,
+          50.111866
+        ]
+      },
+      "bbox": [
+        12.123585,
+        50.111866,
+        12.123585,
+        50.111866
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "LandLebenLeuter",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52756,
+          47.9688
+        ]
+      },
+      "bbox": [
+        9.52756,
+        47.9688,
+        9.52756,
+        47.9688
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Spargelhof Mysegades",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.05556,
+          52.8039
+        ]
+      },
+      "bbox": [
+        9.05556,
+        52.8039,
+        9.05556,
+        52.8039
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gasthaus Adler Roggenzell ",
+        "Anrufe": "in den Saisoneröffnung 2-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74977,
+          47.62456
+        ]
+      },
+      "bbox": [
+        9.74977,
+        47.62456,
+        9.74977,
+        47.62456
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Mayer ",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.20494,
+          48.91795
+        ]
+      },
+      "bbox": [
+        11.20494,
+        48.91795,
+        11.20494,
+        48.91795
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Luftmühle Rodersdorf",
+        "Anrufe": "3-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.032369,
+          50.47529
+        ]
+      },
+      "bbox": [
+        12.032369,
+        50.47529,
+        12.032369,
+        50.47529
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "An der Dresdner Heide",
+        "Anrufe": "+/- 12",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90722,
+          51.08156
+        ]
+      },
+      "bbox": [
+        13.90722,
+        51.08156,
+        13.90722,
+        51.08156
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Gorzelany",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52824,
+          48.307991
+        ]
+      },
+      "bbox": [
+        9.52824,
+        48.307991,
+        9.52824,
+        48.307991
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Vogelschmiede",
+        "Anrufe": "5 - 20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.276774,
+          50.484137
+        ]
+      },
+      "bbox": [
+        9.276774,
+        50.484137,
+        9.276774,
+        50.484137
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Hof Schneider ",
+        "Anrufe": "Zwischen 0-40",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.165278,
+          50.871774
+        ]
+      },
+      "bbox": [
+        8.165278,
+        50.871774,
+        8.165278,
+        50.871774
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Restaurant Aischblick",
+        "Anrufe": "4-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.824799,
+          49.702506
+        ]
+      },
+      "bbox": [
+        10.824799,
+        49.702506,
+        10.824799,
+        49.702506
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Naturland Hof Bäumer",
+        "Anrufe": "3-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98814,
+          52.076549
+        ]
+      },
+      "bbox": [
+        7.98814,
+        52.076549,
+        7.98814,
+        52.076549
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Hausberg",
+        "Anrufe": "1 - 2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03792,
+          48.540508
+        ]
+      },
+      "bbox": [
+        13.03792,
+        48.540508,
+        13.03792,
+        48.540508
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bauernhof Schulze",
+        "Anrufe": "3-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.201973,
+          52.239135
+        ]
+      },
+      "bbox": [
+        14.201973,
+        52.239135,
+        14.201973,
+        52.239135
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Claus Rank, Hafenweiler 31, 74235 Erlenbach",
+        "Anrufe": "bisher insgesamt 3 (totaler Wert)",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.271882,
+          49.16964
+        ]
+      },
+      "bbox": [
+        9.271882,
+        49.16964,
+        9.271882,
+        49.16964
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Matela, Das Gasthaus im Panzhaus ",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65927,
+          49.56304
+        ]
+      },
+      "bbox": [
+        6.65927,
+        49.56304,
+        6.65927,
+        49.56304
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Brennerei Südstrasse",
+        "Anrufe": "ca. 5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755062,
+          48.383138
+        ]
+      },
+      "bbox": [
+        7.755062,
+        48.383138,
+        7.755062,
+        48.383138
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Reinhardt Landwirtschaft ",
+        "Anrufe": "4-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.196967,
+          48.619612
+        ]
+      },
+      "bbox": [
+        13.196967,
+        48.619612,
+        13.196967,
+        48.619612
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Die Steimke",
+        "Anrufe": "20-40",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972982,
+          52.750755
+        ]
+      },
+      "bbox": [
+        8.972982,
+        52.750755,
+        8.972982,
+        52.750755
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gutes vom Hof",
+        "Anrufe": "22",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.989501,
+          53.587645
+        ]
+      },
+      "bbox": [
+        11.989501,
+        53.587645,
+        11.989501,
+        53.587645
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Vulkanhof",
+        "Anrufe": "ca. 100",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.91422,
+          50.128448
+        ]
+      },
+      "bbox": [
+        6.91422,
+        50.128448,
+        6.91422,
+        50.128448
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Schmitt Bergtheim (PS bin mir nicht sicher, seit wann wir Mitglied sind)",
+        "Anrufe": "über Landvergnügen 1x",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0638,
+          49.894348
+        ]
+      },
+      "bbox": [
+        10.0638,
+        49.894348,
+        10.0638,
+        49.894348
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Galloway Löwenbruch",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313128,
+          52.291979
+        ]
+      },
+      "bbox": [
+        13.313128,
+        52.291979,
+        13.313128,
+        52.291979
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bio Obstanbau Magdalenenhof",
+        "Anrufe": "5-10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77505,
+          47.77963
+        ]
+      },
+      "bbox": [
+        8.77505,
+        47.77963,
+        8.77505,
+        47.77963
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kleinbrennerei Fitzke",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.82904,
+          48.21887
+        ]
+      },
+      "bbox": [
+        7.82904,
+        48.21887,
+        7.82904,
+        48.21887
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Schneckenhof Weingut Müller",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.49805,
+          49.14336
+        ]
+      },
+      "bbox": [
+        9.49805,
+        49.14336,
+        9.49805,
+        49.14336
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Zusamtaler Saftmanufaktur",
+        "Anrufe": "0,25",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.554072,
+          48.218294
+        ]
+      },
+      "bbox": [
+        10.554072,
+        48.218294,
+        10.554072,
+        48.218294
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Benedikthof   Wilfried Benedikt",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25129,
+          48.73401
+        ]
+      },
+      "bbox": [
+        12.25129,
+        48.73401,
+        12.25129,
+        48.73401
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Schwarzenbach",
+        "Anrufe": "20-70",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41916,
+          47.66698
+        ]
+      },
+      "bbox": [
+        10.41916,
+        47.66698,
+        10.41916,
+        47.66698
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Schnapsbrennerei Meckel",
+        "Anrufe": "Gegen Feiertagen 2 - 3, ansonsten 0 - 1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.92289,
+          50.37819
+        ]
+      },
+      "bbox": [
+        7.92289,
+        50.37819,
+        7.92289,
+        50.37819
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Fisch-Hofladen Kressepark Erfurt",
+        "Anrufe": "30-60",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.01504,
+          50.96167
+        ]
+      },
+      "bbox": [
+        11.01504,
+        50.96167,
+        11.01504,
+        50.96167
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Kohler",
+        "Anrufe": "50tägl in Ferienzeiten und langen Wochenenden ansonsten ca. 5_10 am Tag",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92421,
+          47.63928
+        ]
+      },
+      "bbox": [
+        9.92421,
+        47.63928,
+        9.92421,
+        47.63928
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lonetal Brennerei",
+        "Anrufe": "6 bis 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15116,
+          48.526858
+        ]
+      },
+      "bbox": [
+        10.15116,
+        48.526858,
+        10.15116,
+        48.526858
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenfarm am Bolzenteich",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27506,
+          51.78399
+        ]
+      },
+      "bbox": [
+        13.27506,
+        51.78399,
+        13.27506,
+        51.78399
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Baltica Saft- & Weinmanufaktur",
+        "Anrufe": " um die 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.648407,
+          54.281825
+        ]
+      },
+      "bbox": [
+        10.648407,
+        54.281825,
+        10.648407,
+        54.281825
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Siebengiebelhof",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.006994,
+          53.316916
+        ]
+      },
+      "bbox": [
+        12.006994,
+        53.316916,
+        12.006994,
+        53.316916
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Fiegenhof",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.083149,
+          48.46692
+        ]
+      },
+      "bbox": [
+        8.083149,
+        48.46692,
+        8.083149,
+        48.46692
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kumal Alpakas",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.089392,
+          52.387999
+        ]
+      },
+      "bbox": [
+        10.089392,
+        52.387999,
+        10.089392,
+        52.387999
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Forsthaus Reichenbacher Hof",
+        "Anrufe": "Vor den langen Wochenenden 5-6 täglich, das macht so 30 die Woche, das ist ganz schön nervig",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65544,
+          49.91511
+        ]
+      },
+      "bbox": [
+        7.65544,
+        49.91511,
+        7.65544,
+        49.91511
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Susanne Schmidt",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631297,
+          48.101212
+        ]
+      },
+      "bbox": [
+        7.631297,
+        48.101212,
+        7.631297,
+        48.101212
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": " Bioland Hof Friedl Friedls Stadel Leben",
+        "Anrufe": "Zwischen 15 und 20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20769,
+          48.046719
+        ]
+      },
+      "bbox": [
+        10.20769,
+        48.046719,
+        10.20769,
+        48.046719
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Schloss Ortenberg ",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9799,
+          48.45338
+        ]
+      },
+      "bbox": [
+        7.9799,
+        48.45338,
+        7.9799,
+        48.45338
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hense, rossberger Hofn Montabaur",
+        "Anrufe": "Zur Zeit zwischen 5 und 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8486,
+          50.43271
+        ]
+      },
+      "bbox": [
+        7.8486,
+        50.43271,
+        7.8486,
+        50.43271
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Wildkräuterhof LANDSPROSSE",
+        "Anrufe": "ca. 25",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.91028,
+          50.91743
+        ]
+      },
+      "bbox": [
+        12.91028,
+        50.91743,
+        12.91028,
+        50.91743
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bassen Melkhus",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.490063,
+          53.154771
+        ]
+      },
+      "bbox": [
+        9.490063,
+        53.154771,
+        9.490063,
+        53.154771
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Landfactur",
+        "Anrufe": "3-5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.710521,
+          51.179954
+        ]
+      },
+      "bbox": [
+        10.710521,
+        51.179954,
+        10.710521,
+        51.179954
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Burks Nudeln",
+        "Anrufe": "2-3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.667069,
+          49.954388
+        ]
+      },
+      "bbox": [
+        9.667069,
+        49.954388,
+        9.667069,
+        49.954388
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Iris Wilms Eschenhof",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.136804,
+          53.513271
+        ]
+      },
+      "bbox": [
+        7.136804,
+        53.513271,
+        7.136804,
+        53.513271
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Strohabenteuer",
+        "Anrufe": "ca. 10-15 Anrufe",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610551,
+          53.532627
+        ]
+      },
+      "bbox": [
+        7.610551,
+        53.532627,
+        7.610551,
+        53.532627
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Mühle Zänker in Burg OT Gütter",
+        "Anrufe": "6-8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90815,
+          52.26728
+        ]
+      },
+      "bbox": [
+        11.90815,
+        52.26728,
+        11.90815,
+        52.26728
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Mayer, Hof Natur im Moor ",
+        "Anrufe": "30 -40",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99537,
+          53.72605
+        ]
+      },
+      "bbox": [
+        8.99537,
+        53.72605,
+        8.99537,
+        53.72605
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenfarm Schlüterhof",
+        "Anrufe": "ca 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.890739,
+          51.9235
+        ]
+      },
+      "bbox": [
+        12.890739,
+        51.9235,
+        12.890739,
+        51.9235
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Finkenberger Hof",
+        "Anrufe": "10-12",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.418689,
+          51.11034
+        ]
+      },
+      "bbox": [
+        6.418689,
+        51.11034,
+        6.418689,
+        51.11034
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Grethermühle",
+        "Anrufe": "1-2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76756,
+          47.64418
+        ]
+      },
+      "bbox": [
+        7.76756,
+        47.64418,
+        7.76756,
+        47.64418
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Alte Pommernkate",
+        "Anrufe": "ca. 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.201125,
+          54.353772
+        ]
+      },
+      "bbox": [
+        13.201125,
+        54.353772,
+        13.201125,
+        54.353772
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Sonnenberghof",
+        "Anrufe": "3-7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.462285,
+          48.817356
+        ]
+      },
+      "bbox": [
+        9.462285,
+        48.817356,
+        9.462285,
+        48.817356
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Aulachhof",
+        "Anrufe": "2 - 10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2764,
+          48.87005
+        ]
+      },
+      "bbox": [
+        8.2764,
+        48.87005,
+        8.2764,
+        48.87005
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": " Bioland Hof Friedl Friedls Stadel Leben",
+        "Anrufe": "Zwischen 15 und 20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20769,
+          48.046719
+        ]
+      },
+      "bbox": [
+        10.20769,
+        48.046719,
+        10.20769,
+        48.046719
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Alpaka&Ziegenranch Familie Wanner",
+        "Anrufe": "2-3 Anrufe",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.427074,
+          48.125926
+        ]
+      },
+      "bbox": [
+        10.427074,
+        48.125926,
+        10.427074,
+        48.125926
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Attl`s Bio Ziegenhof  Fam. Obermaier",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.849711,
+          47.966579
+        ]
+      },
+      "bbox": [
+        12.849711,
+        47.966579,
+        12.849711,
+        47.966579
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Maisingerhof",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.39653,
+          48.24986
+        ]
+      },
+      "bbox": [
+        11.39653,
+        48.24986,
+        11.39653,
+        48.24986
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Weingut Brunnenhof",
+        "Anrufe": "Unterschiedlich, zu den Feiertagen erhöhte Nachfrage !",
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.811848,
+          49.812775
+        ]
+      },
+      "bbox": [
+        7.811848,
+        49.812775,
+        7.811848,
+        49.812775
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Highland Aufzucht und Vermarktung",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42021,
+          52.84826
+        ]
+      },
+      "bbox": [
+        8.42021,
+        52.84826,
+        8.42021,
+        52.84826
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Der Genießerhof",
+        "Anrufe": "10-15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64792,
+          48.206268
+        ]
+      },
+      "bbox": [
+        8.64792,
+        48.206268,
+        8.64792,
+        48.206268
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Marienfelderhof, Wein-und Sektgut Bioland",
+        "Anrufe": "3 bis 4  ",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.056562,
+          49.212727
+        ]
+      },
+      "bbox": [
+        8.056562,
+        49.212727,
+        8.056562,
+        49.212727
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Atelierhof Scholen",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75695,
+          52.74725
+        ]
+      },
+      "bbox": [
+        8.75695,
+        52.74725,
+        8.75695,
+        52.74725
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gasthaus Burren",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.722282,
+          48.117043
+        ]
+      },
+      "bbox": [
+        9.722282,
+        48.117043,
+        9.722282,
+        48.117043
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bäckerei Plentz",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08517,
+          52.73629
+        ]
+      },
+      "bbox": [
+        13.08517,
+        52.73629,
+        13.08517,
+        52.73629
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Leonhardt´s Stallbesen",
+        "Anrufe": 30,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79692,
+          47.68479
+        ]
+      },
+      "bbox": [
+        9.79692,
+        47.68479,
+        9.79692,
+        47.68479
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Tannenhof",
+        "Anrufe": 40,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.83801,
+          47.63448
+        ]
+      },
+      "bbox": [
+        9.83801,
+        47.63448,
+        9.83801,
+        47.63448
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hoflädle Ochsental",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.834065,
+          49.34789
+        ]
+      },
+      "bbox": [
+        9.834065,
+        49.34789,
+        9.834065,
+        49.34789
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Hof Schwarzes Moor",
+        "Anrufe": 25,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.12714,
+          52.71257
+        ]
+      },
+      "bbox": [
+        9.12714,
+        52.71257,
+        9.12714,
+        52.71257
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Warnerjes",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.439233,
+          50.40875
+        ]
+      },
+      "bbox": [
+        9.439233,
+        50.40875,
+        9.439233,
+        50.40875
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Weingut Bohn-Leimbrock",
+        "Anrufe": 30,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.99998,
+          49.879909
+        ]
+      },
+      "bbox": [
+        6.99998,
+        49.879909,
+        6.99998,
+        49.879909
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lindenhof GbR",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.197422,
+          50.197324
+        ]
+      },
+      "bbox": [
+        6.197422,
+        50.197324,
+        6.197422,
+        50.197324
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gutshof Kraatz",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.66631,
+          53.39035
+        ]
+      },
+      "bbox": [
+        13.66631,
+        53.39035,
+        13.66631,
+        53.39035
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Windmühlenhof Neyer",
+        "Anrufe": "80",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.82848,
+          52.24483
+        ]
+      },
+      "bbox": [
+        7.82848,
+        52.24483,
+        7.82848,
+        52.24483
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bio-Streuobsthof Stöckl",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.97222,
+          48.76872
+        ]
+      },
+      "bbox": [
+        11.97222,
+        48.76872,
+        11.97222,
+        48.76872
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Albrecht-Kiessling",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23511,
+          49.15162
+        ]
+      },
+      "bbox": [
+        9.23511,
+        49.15162,
+        9.23511,
+        49.15162
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Benediktinerinnenkloster Habsthal",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3229,
+          47.992008
+        ]
+      },
+      "bbox": [
+        9.3229,
+        47.992008,
+        9.3229,
+        47.992008
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Preißler",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5871,
+          48.82646
+        ]
+      },
+      "bbox": [
+        13.5871,
+        48.82646,
+        13.5871,
+        48.82646
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Staib",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37693,
+          48.8
+        ]
+      },
+      "bbox": [
+        9.37693,
+        48.8,
+        9.37693,
+        48.8
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gasthaus Gerlach",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35305,
+          49.50838
+        ]
+      },
+      "bbox": [
+        7.35305,
+        49.50838,
+        7.35305,
+        49.50838
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biolandhof Steidle",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38709,
+          47.793671
+        ]
+      },
+      "bbox": [
+        9.38709,
+        47.793671,
+        9.38709,
+        47.793671
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Dürrwanger",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.646502,
+          48.857765
+        ]
+      },
+      "bbox": [
+        10.646502,
+        48.857765,
+        10.646502,
+        48.857765
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Winzergenossenschaft Achkarren im Kaiserstuhl",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62259,
+          48.06666
+        ]
+      },
+      "bbox": [
+        7.62259,
+        48.06666,
+        7.62259,
+        48.06666
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Assulzer Hof",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.21468,
+          49.32547
+        ]
+      },
+      "bbox": [
+        9.21468,
+        49.32547,
+        9.21468,
+        49.32547
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofladen OHNEKUNST",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.988116,
+          52.649744
+        ]
+      },
+      "bbox": [
+        10.988116,
+        52.649744,
+        10.988116,
+        52.649744
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Sommer",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.02308,
+          49.09454
+        ]
+      },
+      "bbox": [
+        9.02308,
+        49.09454,
+        9.02308,
+        49.09454
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wegeners Hof",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45824,
+          52.448879
+        ]
+      },
+      "bbox": [
+        9.45824,
+        52.448879,
+        9.45824,
+        52.448879
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Echt Schaf",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7858,
+          52.111912
+        ]
+      },
+      "bbox": [
+        9.7858,
+        52.111912,
+        9.7858,
+        52.111912
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Diedersdorfer Ölmühle",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32532,
+          52.511608
+        ]
+      },
+      "bbox": [
+        14.32532,
+        52.511608,
+        14.32532,
+        52.511608
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biolandhof Zielke",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.305444,
+          52.526783
+        ]
+      },
+      "bbox": [
+        14.305444,
+        52.526783,
+        14.305444,
+        52.526783
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weindomicil Raik Moh",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82802,
+          51.23871
+        ]
+      },
+      "bbox": [
+        11.82802,
+        51.23871,
+        11.82802,
+        51.23871
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Krone-Raue",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36542,
+          52.58537
+        ]
+      },
+      "bbox": [
+        7.36542,
+        52.58537,
+        7.36542,
+        52.58537
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Imkereibedarf, Hofladen und Schweinezucht Bense",
+        "Anrufe": "25",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2056,
+          52.92245
+        ]
+      },
+      "bbox": [
+        11.2056,
+        52.92245,
+        11.2056,
+        52.92245
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Eichrüttehof",
+        "Anrufe": 30,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.06358,
+          47.66022
+        ]
+      },
+      "bbox": [
+        8.06358,
+        47.66022,
+        8.06358,
+        47.66022
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biobauer Raach",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40114,
+          48.28973
+        ]
+      },
+      "bbox": [
+        9.40114,
+        48.28973,
+        9.40114,
+        48.28973
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biolandhof Günter & Edelgard Dihlmann auf dem Blücherhof",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.893049,
+          52.822636
+        ]
+      },
+      "bbox": [
+        11.893049,
+        52.822636,
+        11.893049,
+        52.822636
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Jockel",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375811,
+          50.377309
+        ]
+      },
+      "bbox": [
+        9.375811,
+        50.377309,
+        9.375811,
+        50.377309
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Joas",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50326,
+          49.71256
+        ]
+      },
+      "bbox": [
+        9.50326,
+        49.71256,
+        9.50326,
+        49.71256
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Milchschafhof Brünjes",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.148731,
+          53.585162
+        ]
+      },
+      "bbox": [
+        9.148731,
+        53.585162,
+        9.148731,
+        53.585162
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Icken",
+        "Anrufe": "45",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59872,
+          53.64806
+        ]
+      },
+      "bbox": [
+        8.59872,
+        53.64806,
+        8.59872,
+        53.64806
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Rittergut Meinbrexxen",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.397935,
+          51.688561
+        ]
+      },
+      "bbox": [
+        9.397935,
+        51.688561,
+        9.397935,
+        51.688561
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Winzerfamilie Jonas",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80388,
+          49.98683
+        ]
+      },
+      "bbox": [
+        9.80388,
+        49.98683,
+        9.80388,
+        49.98683
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Inselhof",
+        "Anrufe": "40",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015572,
+          51.298518
+        ]
+      },
+      "bbox": [
+        10.015572,
+        51.298518,
+        10.015572,
+        51.298518
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Schulte-Schüren",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.231456,
+          51.432554
+        ]
+      },
+      "bbox": [
+        7.231456,
+        51.432554,
+        7.231456,
+        51.432554
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "        Keeses Bauernhof",
+        "Anrufe": "18",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.909326,
+          51.667813
+        ]
+      },
+      "bbox": [
+        9.909326,
+        51.667813,
+        9.909326,
+        51.667813
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Etzelberg",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.333039,
+          49.611609
+        ]
+      },
+      "bbox": [
+        11.333039,
+        49.611609,
+        11.333039,
+        49.611609
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Fürstlich Castell'sches Domänenamt",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.353037,
+          49.741828
+        ]
+      },
+      "bbox": [
+        10.353037,
+        49.741828,
+        10.353037,
+        49.741828
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weindiele",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.834752,
+          53.2488
+        ]
+      },
+      "bbox": [
+        7.834752,
+        53.2488,
+        7.834752,
+        53.2488
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Burghof Oswald",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.34589,
+          49.796719
+        ]
+      },
+      "bbox": [
+        8.34589,
+        49.796719,
+        8.34589,
+        49.796719
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Mathern",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.78367,
+          49.80238
+        ]
+      },
+      "bbox": [
+        7.78367,
+        49.80238,
+        7.78367,
+        49.80238
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Röhlsche Hof",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91162,
+          52.118679
+        ]
+      },
+      "bbox": [
+        11.91162,
+        52.118679,
+        11.91162,
+        52.118679
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bayern-Haselnuss",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.49689,
+          48.36872
+        ]
+      },
+      "bbox": [
+        12.49689,
+        48.36872,
+        12.49689,
+        48.36872
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Herrmannsdorfer Landwerkstätten",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89819,
+          47.993401
+        ]
+      },
+      "bbox": [
+        11.89819,
+        47.993401,
+        11.89819,
+        47.993401
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Rudolfstein Alpakas",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86169,
+          50.083298
+        ]
+      },
+      "bbox": [
+        11.86169,
+        50.083298,
+        11.86169,
+        50.083298
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Barenbrügge",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.07133,
+          52.00772
+        ]
+      },
+      "bbox": [
+        7.07133,
+        52.00772,
+        7.07133,
+        52.00772
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Apfelhof",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.837432,
+          49.414355
+        ]
+      },
+      "bbox": [
+        9.837432,
+        49.414355,
+        9.837432,
+        49.414355
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bolds Schnapsideen",
+        "Anrufe": "25",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.83845,
+          50.19519
+        ]
+      },
+      "bbox": [
+        9.83845,
+        50.19519,
+        9.83845,
+        50.19519
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wettermuseum",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.113677,
+          52.208223
+        ]
+      },
+      "bbox": [
+        14.113677,
+        52.208223,
+        14.113677,
+        52.208223
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lindenhof",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1985,
+          51.15913
+        ]
+      },
+      "bbox": [
+        13.1985,
+        51.15913,
+        13.1985,
+        51.15913
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kloster Jerichow",
+        "Anrufe": "35",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01611,
+          52.5023
+        ]
+      },
+      "bbox": [
+        12.01611,
+        52.5023,
+        12.01611,
+        52.5023
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Baumbachhof Bombeck",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.573216,
+          52.868455
+        ]
+      },
+      "bbox": [
+        10.573216,
+        52.868455,
+        10.573216,
+        52.868455
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Brauerei Zwönitz",
+        "Anrufe": "13",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.81505,
+          50.6278
+        ]
+      },
+      "bbox": [
+        12.81505,
+        50.6278,
+        12.81505,
+        50.6278
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Jakobs-Höfe Beelitz",
+        "Anrufe": "60",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.987704,
+          52.252264
+        ]
+      },
+      "bbox": [
+        12.987704,
+        52.252264,
+        12.987704,
+        52.252264
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenfarm Riederfelde",
+        "Anrufe": "27",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.05896,
+          53.468231
+        ]
+      },
+      "bbox": [
+        12.05896,
+        53.468231,
+        12.05896,
+        53.468231
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "LüBio",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.82128,
+          53.20909
+        ]
+      },
+      "bbox": [
+        10.82128,
+        53.20909,
+        10.82128,
+        53.20909
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bioland-Hof Wilkens",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63596,
+          52.9767
+        ]
+      },
+      "bbox": [
+        9.63596,
+        52.9767,
+        9.63596,
+        52.9767
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lädla Alte Schule",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.961619,
+          49.744123
+        ]
+      },
+      "bbox": [
+        10.961619,
+        49.744123,
+        10.961619,
+        49.744123
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Destille Lutter",
+        "Anrufe": "13",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.31058,
+          49.25447
+        ]
+      },
+      "bbox": [
+        11.31058,
+        49.25447,
+        11.31058,
+        49.25447
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Familie Schubert",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.31119,
+          50.191978
+        ]
+      },
+      "bbox": [
+        11.31119,
+        50.191978,
+        11.31119,
+        50.191978
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hunsrück Mosel Alpaka",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.160148,
+          49.892959
+        ]
+      },
+      "bbox": [
+        7.160148,
+        49.892959,
+        7.160148,
+        49.892959
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "KleinWine",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.770415,
+          49.839509
+        ]
+      },
+      "bbox": [
+        7.770415,
+        49.839509,
+        7.770415,
+        49.839509
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Fleischer & Weingut der Stadt Mainz",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.265622,
+          49.953911
+        ]
+      },
+      "bbox": [
+        8.265622,
+        49.953911,
+        8.265622,
+        49.953911
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Trossen",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.11429,
+          49.953361
+        ]
+      },
+      "bbox": [
+        7.11429,
+        49.953361,
+        7.11429,
+        49.953361
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ölmühle Garting",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358543,
+          48.083065
+        ]
+      },
+      "bbox": [
+        12.358543,
+        48.083065,
+        12.358543,
+        48.083065
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Sonnenhof",
+        "Anrufe": "50",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.279443,
+          51.06663
+        ]
+      },
+      "bbox": [
+        8.279443,
+        51.06663,
+        8.279443,
+        51.06663
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofladen Büntemeyer & Lehmkuhl",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81858,
+          52.88798
+        ]
+      },
+      "bbox": [
+        8.81858,
+        52.88798,
+        8.81858,
+        52.88798
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Aderhold ",
+        "Anrufe": "40",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15155,
+          54.26268
+        ]
+      },
+      "bbox": [
+        10.15155,
+        54.26268,
+        10.15155,
+        54.26268
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Rummel",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11197,
+          49.22459
+        ]
+      },
+      "bbox": [
+        8.11197,
+        49.22459,
+        8.11197,
+        49.22459
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Fred Emrich",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.93875,
+          49.87336
+        ]
+      },
+      "bbox": [
+        7.93875,
+        49.87336,
+        7.93875,
+        49.87336
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Spargelhof Kügel",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.819175,
+          48.835347
+        ]
+      },
+      "bbox": [
+        11.819175,
+        48.835347,
+        11.819175,
+        48.835347
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Claus in Wietzen",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06133,
+          52.7055
+        ]
+      },
+      "bbox": [
+        9.06133,
+        52.7055,
+        9.06133,
+        52.7055
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenfarm Berkenlatten",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75941,
+          53.141029
+        ]
+      },
+      "bbox": [
+        13.75941,
+        53.141029,
+        13.75941,
+        53.141029
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Oderbruch Hof ",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51378,
+          52.53714
+        ]
+      },
+      "bbox": [
+        14.51378,
+        52.53714,
+        14.51378,
+        52.53714
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Minihof Spreewaldsabo",
+        "Anrufe": "140",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793433,
+          51.987447
+        ]
+      },
+      "bbox": [
+        13.793433,
+        51.987447,
+        13.793433,
+        51.987447
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Reiterhof Dammkrug",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37462,
+          52.72681
+        ]
+      },
+      "bbox": [
+        11.37462,
+        52.72681,
+        11.37462,
+        52.72681
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ziegen- und Kleintierhof Pohl",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4903,
+          51.6589
+        ]
+      },
+      "bbox": [
+        14.4903,
+        51.6589,
+        14.4903,
+        51.6589
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofladen St. Ottilien",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04425,
+          48.09471
+        ]
+      },
+      "bbox": [
+        11.04425,
+        48.09471,
+        11.04425,
+        48.09471
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Waldhof Bruchmühle",
+        "Anrufe": "250",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.391183,
+          53.440579
+        ]
+      },
+      "bbox": [
+        12.391183,
+        53.440579,
+        12.391183,
+        53.440579
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Beckers Hof",
+        "Anrufe": "70",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5181,
+          52.86027
+        ]
+      },
+      "bbox": [
+        9.5181,
+        52.86027,
+        9.5181,
+        52.86027
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "The Collectors Designpress",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.722885,
+          53.851983
+        ]
+      },
+      "bbox": [
+        9.722885,
+        53.851983,
+        9.722885,
+        53.851983
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lars Andresen - Nutztierarche am Jinghangsweg",
+        "Anrufe": "40",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37553,
+          50.293919
+        ]
+      },
+      "bbox": [
+        7.37553,
+        50.293919,
+        7.37553,
+        50.293919
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Meyer Gbr",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50409,
+          52.94946
+        ]
+      },
+      "bbox": [
+        9.50409,
+        52.94946,
+        9.50409,
+        52.94946
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Thomsen - Gut Sophienhof - Waabs",
+        "Anrufe": "100",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94732,
+          54.521229
+        ]
+      },
+      "bbox": [
+        9.94732,
+        54.521229,
+        9.94732,
+        54.521229
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Vielfruchthof Domstiftsgut Mötzow",
+        "Anrufe": "30",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591652,
+          52.463808
+        ]
+      },
+      "bbox": [
+        12.591652,
+        52.463808,
+        12.591652,
+        52.463808
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Naturlandhof Froschhammer",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14907,
+          48.918388
+        ]
+      },
+      "bbox": [
+        12.14907,
+        48.918388,
+        12.14907,
+        48.918388
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Fischereibetrieb R.Endjer",
+        "Anrufe": "30",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.28055,
+          53.37448
+        ]
+      },
+      "bbox": [
+        7.28055,
+        53.37448,
+        7.28055,
+        53.37448
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Brauerei Brogilus",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.716702,
+          53.742351
+        ]
+      },
+      "bbox": [
+        11.716702,
+        53.742351,
+        11.716702,
+        53.742351
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weinbau Beuschel",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08709,
+          49.73155
+        ]
+      },
+      "bbox": [
+        10.08709,
+        49.73155,
+        10.08709,
+        49.73155
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenfarm Mhou",
+        "Anrufe": "150",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.27367,
+          49.151001
+        ]
+      },
+      "bbox": [
+        8.27367,
+        49.151001,
+        8.27367,
+        49.151001
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gasthof \"Zur Burg\"",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.222928,
+          50.097024
+        ]
+      },
+      "bbox": [
+        12.222928,
+        50.097024,
+        12.222928,
+        50.097024
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wemels (Westmecklenburgerische Eisenbahngesellschaft",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.970639,
+          53.535545
+        ]
+      },
+      "bbox": [
+        10.970639,
+        53.535545,
+        10.970639,
+        53.535545
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "wandelhof",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.01355,
+          52.415298
+        ]
+      },
+      "bbox": [
+        9.01355,
+        52.415298,
+        9.01355,
+        52.415298
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Seyberth ",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95673,
+          49.795799
+        ]
+      },
+      "bbox": [
+        7.95673,
+        49.795799,
+        7.95673,
+        49.795799
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Naturlandhof daxelberg",
+        "Anrufe": "150",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21788,
+          47.84002
+        ]
+      },
+      "bbox": [
+        12.21788,
+        47.84002,
+        12.21788,
+        47.84002
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Huber Winklhof ",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.333301,
+          48.375347
+        ]
+      },
+      "bbox": [
+        12.333301,
+        48.375347,
+        12.333301,
+        48.375347
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Martina's Hofladen ",
+        "Anrufe": "80",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.651744,
+          49.368547
+        ]
+      },
+      "bbox": [
+        8.651744,
+        49.368547,
+        8.651744,
+        49.368547
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut kreiselmaier ",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19929,
+          49.32275
+        ]
+      },
+      "bbox": [
+        8.19929,
+        49.32275,
+        8.19929,
+        49.32275
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Karolinenhof ",
+        "Anrufe": "140",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.673097,
+          50.5483
+        ]
+      },
+      "bbox": [
+        11.673097,
+        50.5483,
+        11.673097,
+        50.5483
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biolandhof Weibler",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.513111,
+          48.415398
+        ]
+      },
+      "bbox": [
+        9.513111,
+        48.415398,
+        9.513111,
+        48.415398
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenhof Weideblick",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.23374,
+          52.64566
+        ]
+      },
+      "bbox": [
+        14.23374,
+        52.64566,
+        14.23374,
+        52.64566
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofladen Backenstolz",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.275367,
+          54.499382
+        ]
+      },
+      "bbox": [
+        9.275367,
+        54.499382,
+        9.275367,
+        54.499382
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Unterbaurenhof Wilhelm Stockinger",
+        "Anrufe": "25",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58297,
+          48.633541
+        ]
+      },
+      "bbox": [
+        8.58297,
+        48.633541,
+        8.58297,
+        48.633541
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Graf von Weyher",
+        "Anrufe": "50",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.08267,
+          49.267231
+        ]
+      },
+      "bbox": [
+        8.08267,
+        49.267231,
+        8.08267,
+        49.267231
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Stendaler Scheunenladen ",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.846223,
+          52.62108
+        ]
+      },
+      "bbox": [
+        11.846223,
+        52.62108,
+        11.846223,
+        52.62108
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Oelkers",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795143,
+          53.348209
+        ]
+      },
+      "bbox": [
+        9.795143,
+        53.348209,
+        9.795143,
+        53.348209
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Gotthard Emmerich",
+        "Anrufe": "100",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.382542,
+          50.454535
+        ]
+      },
+      "bbox": [
+        7.382542,
+        50.454535,
+        7.382542,
+        50.454535
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Garten- und Brennholzarbeiten Alexander Thudium",
+        "Anrufe": "13",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.629614,
+          48.772667
+        ]
+      },
+      "bbox": [
+        9.629614,
+        48.772667,
+        9.629614,
+        48.772667
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wendland Ziege GbR",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98868,
+          52.96844
+        ]
+      },
+      "bbox": [
+        10.98868,
+        52.96844,
+        10.98868,
+        52.96844
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Frühlings Hof / Frühlings Café",
+        "Anrufe": "60",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15352,
+          54.66385
+        ]
+      },
+      "bbox": [
+        9.15352,
+        54.66385,
+        9.15352,
+        54.66385
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Brinninger Karl",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.68972,
+          48.386421
+        ]
+      },
+      "bbox": [
+        12.68972,
+        48.386421,
+        12.68972,
+        48.386421
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Heinrichs-Ruhe",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75751,
+          50.75604
+        ]
+      },
+      "bbox": [
+        11.75751,
+        50.75604,
+        11.75751,
+        50.75604
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Haub \"Hof in den Weingärten\"",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2967,
+          49.926071
+        ]
+      },
+      "bbox": [
+        8.2967,
+        49.926071,
+        8.2967,
+        49.926071
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Angus Hof Sohlbach",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.161289,
+          50.949436
+        ]
+      },
+      "bbox": [
+        8.161289,
+        50.949436,
+        8.161289,
+        50.949436
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofladen Keil",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86466,
+          49.70845
+        ]
+      },
+      "bbox": [
+        8.86466,
+        49.70845,
+        8.86466,
+        49.70845
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Gamm",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.29627,
+          49.6876
+        ]
+      },
+      "bbox": [
+        10.29627,
+        49.6876,
+        10.29627,
+        49.6876
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Mößner-Bartsche",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.80533,
+          48.13965
+        ]
+      },
+      "bbox": [
+        7.80533,
+        48.13965,
+        7.80533,
+        48.13965
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Talheimer Hof",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22404,
+          49.088161
+        ]
+      },
+      "bbox": [
+        9.22404,
+        49.088161,
+        9.22404,
+        49.088161
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Von Carlowitz",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.127332,
+          49.556448
+        ]
+      },
+      "bbox": [
+        7.127332,
+        49.556448,
+        7.127332,
+        49.556448
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Brennerei & Weingut Wild",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.020422,
+          48.387628
+        ]
+      },
+      "bbox": [
+        8.020422,
+        48.387628,
+        8.020422,
+        48.387628
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Weber",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.79382,
+          48.25487
+        ]
+      },
+      "bbox": [
+        7.79382,
+        48.25487,
+        7.79382,
+        48.25487
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gut Fiekensholt",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657309,
+          53.647503
+        ]
+      },
+      "bbox": [
+        7.657309,
+        53.647503,
+        7.657309,
+        53.647503
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Adlstraß",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.228193,
+          48.317847
+        ]
+      },
+      "bbox": [
+        12.228193,
+        48.317847,
+        12.228193,
+        48.317847
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Landgasthof Rademacher",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.029697,
+          51.222428
+        ]
+      },
+      "bbox": [
+        8.029697,
+        51.222428,
+        8.029697,
+        51.222428
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Viehbrook",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13347,
+          54.08291
+        ]
+      },
+      "bbox": [
+        10.13347,
+        54.08291,
+        10.13347,
+        54.08291
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Stettenfels",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.28323,
+          49.09037
+        ]
+      },
+      "bbox": [
+        9.28323,
+        49.09037,
+        9.28323,
+        49.09037
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Imkerei und Bauernhof Fink",
+        "Anrufe": 30,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.177308,
+          50.8248
+        ]
+      },
+      "bbox": [
+        9.177308,
+        50.8248,
+        9.177308,
+        50.8248
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Himbeerhof Niemeyer",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.243791,
+          52.351422
+        ]
+      },
+      "bbox": [
+        8.243791,
+        52.351422,
+        8.243791,
+        52.351422
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wilkenshoff",
+        "Anrufe": "50",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68835,
+          53.34391
+        ]
+      },
+      "bbox": [
+        9.68835,
+        53.34391,
+        9.68835,
+        53.34391
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kokopelli Lebenswelt",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83395,
+          51.245305
+        ]
+      },
+      "bbox": [
+        12.83395,
+        51.245305,
+        12.83395,
+        51.245305
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Annas Dieklus",
+        "Anrufe": "50",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.400434,
+          53.820617
+        ]
+      },
+      "bbox": [
+        9.400434,
+        53.820617,
+        9.400434,
+        53.820617
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußen-Damwildhof Halammda",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21052,
+          51.71971
+        ]
+      },
+      "bbox": [
+        12.21052,
+        51.71971,
+        12.21052,
+        51.71971
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Ferienhof Schäfer",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.039866,
+          49.162448
+        ]
+      },
+      "bbox": [
+        8.039866,
+        49.162448,
+        8.039866,
+        49.162448
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gasthof Voss",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20214,
+          51.184921
+        ]
+      },
+      "bbox": [
+        8.20214,
+        51.184921,
+        8.20214,
+        51.184921
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ölmühle und Bauernhof Dänzer",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.32698,
+          49.1334
+        ]
+      },
+      "bbox": [
+        10.32698,
+        49.1334,
+        10.32698,
+        49.1334
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Ulla und Wolfgang Kahlbrock",
+        "Anrufe": 25,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.29184,
+          53.44894
+        ]
+      },
+      "bbox": [
+        10.29184,
+        53.44894,
+        10.29184,
+        53.44894
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Streuobsthof Bernhard",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.29493,
+          49.59598
+        ]
+      },
+      "bbox": [
+        12.29493,
+        49.59598,
+        12.29493,
+        49.59598
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Querdels Hof",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33865,
+          52.44779
+        ]
+      },
+      "bbox": [
+        7.33865,
+        52.44779,
+        7.33865,
+        52.44779
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Steinhof-Westheim",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.66525,
+          49.00434
+        ]
+      },
+      "bbox": [
+        10.66525,
+        49.00434,
+        10.66525,
+        49.00434
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Karinenhof Nutztierarche",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65097,
+          52.687489
+        ]
+      },
+      "bbox": [
+        12.65097,
+        52.687489,
+        12.65097,
+        52.687489
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Rosenhof Flemming",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.816766,
+          53.427583
+        ]
+      },
+      "bbox": [
+        13.816766,
+        53.427583,
+        13.816766,
+        53.427583
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Jahnsfelder Landhof",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.227043,
+          52.512188
+        ]
+      },
+      "bbox": [
+        14.227043,
+        52.512188,
+        14.227043,
+        52.512188
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ökolandwirt",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.415594,
+          51.747189
+        ]
+      },
+      "bbox": [
+        12.415594,
+        51.747189,
+        12.415594,
+        51.747189
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Wenzel",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07832,
+          50.07015
+        ]
+      },
+      "bbox": [
+        9.07832,
+        50.07015,
+        9.07832,
+        50.07015
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Müllers Bauernladen",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.017702,
+          48.548547
+        ]
+      },
+      "bbox": [
+        8.017702,
+        48.548547,
+        8.017702,
+        48.548547
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut F.G. Kost",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.06727,
+          49.238548
+        ]
+      },
+      "bbox": [
+        8.06727,
+        49.238548,
+        8.06727,
+        49.238548
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bfa615",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Hofname": "Gut Dalwitz",
+        "Anrufe": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53806,
+          53.93465
+        ]
+      },
+      "bbox": [
+        12.53806,
+        53.93465,
+        12.53806,
+        53.93465
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Völkleswaldhof",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.695355,
+          49.007182
+        ]
+      },
+      "bbox": [
+        9.695355,
+        49.007182,
+        9.695355,
+        49.007182
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Mertens Wiesbrock",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.43694,
+          51.8495
+        ]
+      },
+      "bbox": [
+        8.43694,
+        51.8495,
+        8.43694,
+        51.8495
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gut Sannum",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26407,
+          53.00815
+        ]
+      },
+      "bbox": [
+        8.26407,
+        53.00815,
+        8.26407,
+        53.00815
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofbackstube Gackstatter",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.939489,
+          49.334112
+        ]
+      },
+      "bbox": [
+        9.939489,
+        49.334112,
+        9.939489,
+        49.334112
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Berghegger        ",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.786513,
+          49.565353
+        ]
+      },
+      "bbox": [
+        8.786513,
+        49.565353,
+        8.786513,
+        49.565353
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Lädle im Riegenhof",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.57142,
+          49.078018
+        ]
+      },
+      "bbox": [
+        9.57142,
+        49.078018,
+        9.57142,
+        49.078018
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Sturmiushof",
+        "Anrufe": "25",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85336,
+          50.13157
+        ]
+      },
+      "bbox": [
+        9.85336,
+        50.13157,
+        9.85336,
+        50.13157
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Desoi",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.889451,
+          49.828513
+        ]
+      },
+      "bbox": [
+        7.889451,
+        49.828513,
+        7.889451,
+        49.828513
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Landlust Körzin",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09121,
+          52.21859
+        ]
+      },
+      "bbox": [
+        13.09121,
+        52.21859,
+        13.09121,
+        52.21859
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Brennerei Geistreich",
+        "Anrufe": "28",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.17105,
+          49.67274
+        ]
+      },
+      "bbox": [
+        11.17105,
+        49.67274,
+        11.17105,
+        49.67274
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "NaturOH",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.005447,
+          51.975368
+        ]
+      },
+      "bbox": [
+        7.005447,
+        51.975368,
+        7.005447,
+        51.975368
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ferien- & Freizeithof Meutstege",
+        "Anrufe": "7",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.17218,
+          52.78643
+        ]
+      },
+      "bbox": [
+        7.17218,
+        52.78643,
+        7.17218,
+        52.78643
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Bio Hof Fuchshuber ",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.88818,
+          49.02024
+        ]
+      },
+      "bbox": [
+        12.88818,
+        49.02024,
+        12.88818,
+        49.02024
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gasthof Gentner",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71926,
+          49.04793
+        ]
+      },
+      "bbox": [
+        10.71926,
+        49.04793,
+        10.71926,
+        49.04793
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "LVR-Industriemuseum Gesenkschmiede Hendrichs",
+        "Anrufe": 1,
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.036947,
+          51.171087
+        ]
+      },
+      "bbox": [
+        7.036947,
+        51.171087,
+        7.036947,
+        51.171087
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "wiesenhof-biologische Milchschafshaltung",
+        "Anrufe": "30",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.06508,
+          51.41406
+        ]
+      },
+      "bbox": [
+        14.06508,
+        51.41406,
+        14.06508,
+        51.41406
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hofgut Dösterhof ",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90997,
+          49.50851
+        ]
+      },
+      "bbox": [
+        6.90997,
+        49.50851,
+        6.90997,
+        49.50851
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Schnells Kürbiskerne GbR",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.978027,
+          49.2867
+        ]
+      },
+      "bbox": [
+        10.978027,
+        49.2867,
+        10.978027,
+        49.2867
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Schloss- und Gutsanlage Zinzow",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544556,
+          53.710415
+        ]
+      },
+      "bbox": [
+        13.544556,
+        53.710415,
+        13.544556,
+        53.710415
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut und Brennerei Dapper",
+        "Anrufe": "3",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.79924,
+          49.880691
+        ]
+      },
+      "bbox": [
+        7.79924,
+        49.880691,
+        7.79924,
+        49.880691
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Wemels (Westmecklenburgerische Eisenbahngesellschaft",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.970639,
+          53.535545
+        ]
+      },
+      "bbox": [
+        10.970639,
+        53.535545,
+        10.970639,
+        53.535545
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut kreiselmaier ",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19929,
+          49.32275
+        ]
+      },
+      "bbox": [
+        8.19929,
+        49.32275,
+        8.19929,
+        49.32275
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Martina's Hofladen ",
+        "Anrufe": "80",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.651744,
+          49.368547
+        ]
+      },
+      "bbox": [
+        8.651744,
+        49.368547,
+        8.651744,
+        49.368547
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Huber Winkelhof ",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.333301,
+          48.375347
+        ]
+      },
+      "bbox": [
+        12.333301,
+        48.375347,
+        12.333301,
+        48.375347
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Naturlandhof daxelberg",
+        "Anrufe": "150",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21788,
+          47.84002
+        ]
+      },
+      "bbox": [
+        12.21788,
+        47.84002,
+        12.21788,
+        47.84002
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Gärtnerei Srocke",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.604774,
+          51.472422
+        ]
+      },
+      "bbox": [
+        10.604774,
+        51.472422,
+        10.604774,
+        51.472422
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Marmeladenküche Haslbeck",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5994,
+          48.93325
+        ]
+      },
+      "bbox": [
+        12.5994,
+        48.93325,
+        12.5994,
+        48.93325
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Lindemann",
+        "Anrufe": "10",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.859092,
+          53.180593
+        ]
+      },
+      "bbox": [
+        8.859092,
+        53.180593,
+        8.859092,
+        53.180593
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Ziegenhof Sievertshagen",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96163,
+          54.171108
+        ]
+      },
+      "bbox": [
+        12.96163,
+        54.171108,
+        12.96163,
+        54.171108
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Edelbrandbrennerei Erlwein",
+        "Anrufe": "8",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21724,
+          49.709721
+        ]
+      },
+      "bbox": [
+        11.21724,
+        49.709721,
+        11.21724,
+        49.709721
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Klindworths",
+        "Anrufe": "25",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59594,
+          53.3796
+        ]
+      },
+      "bbox": [
+        9.59594,
+        53.3796,
+        9.59594,
+        53.3796
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Syringhof",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05818,
+          52.21635
+        ]
+      },
+      "bbox": [
+        13.05818,
+        52.21635,
+        13.05818,
+        52.21635
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Langenwalter",
+        "Anrufe": "2",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.24766,
+          49.51638
+        ]
+      },
+      "bbox": [
+        8.24766,
+        49.51638,
+        8.24766,
+        49.51638
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Seebodenhof",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.584508,
+          47.65381
+        ]
+      },
+      "bbox": [
+        7.584508,
+        47.65381,
+        7.584508,
+        47.65381
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "homemade",
+        "Anrufe": "70",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.468324,
+          53.10142
+        ]
+      },
+      "bbox": [
+        12.468324,
+        53.10142,
+        12.468324,
+        53.10142
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut und Straußwirtschaft Schneider Pfefferle",
+        "Anrufe": "0",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67116,
+          47.87384
+        ]
+      },
+      "bbox": [
+        7.67116,
+        47.87384,
+        7.67116,
+        47.87384
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Straußenfarm Erlbacher",
+        "Anrufe": "50",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.370504,
+          49.174735
+        ]
+      },
+      "bbox": [
+        11.370504,
+        49.174735,
+        11.370504,
+        49.174735
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Kartoffelhof Steinhauser",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123504,
+          48.112625
+        ]
+      },
+      "bbox": [
+        10.123504,
+        48.112625,
+        10.123504,
+        48.112625
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Biohof Familie Stapel",
+        "Anrufe": "12",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460374,
+          51.912428
+        ]
+      },
+      "bbox": [
+        9.460374,
+        51.912428,
+        9.460374,
+        51.912428
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Der kleine Hof",
+        "Anrufe": "6",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51779,
+          51.63429
+        ]
+      },
+      "bbox": [
+        14.51779,
+        51.63429,
+        14.51779,
+        51.63429
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Alter Gasthof Bredeck-Bakker",
+        "Anrufe": "",
+        "marker-color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.912871,
+          52.128297
+        ]
+      },
+      "bbox": [
+        6.912871,
+        52.128297,
+        6.912871,
+        52.128297
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "HANNES' bio HOF",
+        "Anrufe": "40",
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80001,
+          49.05632
+        ]
+      },
+      "bbox": [
+        8.80001,
+        49.05632,
+        8.80001,
+        49.05632
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Destillerie Drache vom Petersfels",
+        "Anrufe": 30,
+        "marker-color": "#ad761d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81229,
+          47.865688
+        ]
+      },
+      "bbox": [
+        8.81229,
+        47.865688,
+        8.81229,
+        47.865688
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Volz und Sohn",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.172203,
+          49.236203
+        ]
+      },
+      "bbox": [
+        8.172203,
+        49.236203,
+        8.172203,
+        49.236203
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut und Gästehaus Heinrich Kohles",
+        "Anrufe": "1",
+        "marker-color": "#a2c614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351023,
+          49.818026
+        ]
+      },
+      "bbox": [
+        10.351023,
+        49.818026,
+        10.351023,
+        49.818026
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Hofname": "Georg Engelhardt Gartenbaumschule",
+        "Anrufe": 50,
+        "marker-color": "#d91e1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.248822,
+          49.117937
+        ]
+      },
+      "bbox": [
+        10.248822,
+        49.117937,
+        10.248822,
+        49.117937
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weingut Gotthard Emmerich",
+        "Anrufe": "100",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.382542,
+          50.454535
+        ]
+      },
+      "bbox": [
+        7.382542,
+        50.454535,
+        7.382542,
+        50.454535
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Holunderhof Lohe",
+        "Anrufe": "20",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.59028,
+          48.98017
+        ]
+      },
+      "bbox": [
+        10.59028,
+        48.98017,
+        10.59028,
+        48.98017
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Weinkonvent Dürrenzimmern",
+        "Anrufe": "5",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07919,
+          49.084759
+        ]
+      },
+      "bbox": [
+        9.07919,
+        49.084759,
+        9.07919,
+        49.084759
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Naturlandhof Brehm",
+        "Anrufe": "4",
+        "marker-color": "#899129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12043,
+          49.93729
+        ]
+      },
+      "bbox": [
+        11.12043,
+        49.93729,
+        11.12043,
+        49.93729
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Hof Huxhardt",
+        "Anrufe": "15",
+        "marker-color": "#bfa615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.508227,
+          51.254784
+        ]
+      },
+      "bbox": [
+        7.508227,
+        51.254784,
+        7.508227,
+        51.254784
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hofname": "Elbe Highland Cattle",
+        "Anrufe": "180",
+        "marker-color": "#870b0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69039,
+          53.34862
+        ]
+      },
+      "bbox": [
+        10.69039,
+        53.34862,
+        10.69039,
+        53.34862
+      ]
+    }
+  ]
+}
